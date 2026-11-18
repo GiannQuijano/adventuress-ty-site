@@ -1,0 +1,278 @@
+{
+ "title": "Amsterdam to the Swiss Alps",
+ "h": 10000,
+ "name": "Amsterdam to the Alps",
+ "dates": "May 23 – June 3, 2028",
+ "stays": "Amsterdam · Cologne · Frankfurt · Lucerne · Interlaken · Zurich",
+ "heroImg": "3c08bc792d1a4e9ca9212e9f6274a72e",
+ "storyA": "Grand Tour:",
+ "storyB": "Amsterdam to the Swiss Alps",
+ "p1": "Twelve days and eleven nights through the Netherlands, Germany and Switzerland. A sunset dinner cruise on Amsterdam’s canals, first-class trains along the Rhine, fondue in Lucerne, the First Flyer zipline above Grindelwald and a sunset cruise on Lake Thun.",
+ "p2": "Eleven nights of hotels, group arrival and departure transfers, private coaches, first-class rail where listed and every included experience are arranged, with 11 breakfasts, a lunch and four dinners.",
+ "storyImg": [
+  "b1c0d2bfbda06e8176aef9133b781739",
+  "The Chapel Bridge water tower in Lucerne"
+ ],
+ "presImg": [
+  "40d022fd6c6c5c04575b66e0370b9f0a",
+  "A Swiss lake reflecting the Alps"
+ ],
+ "presA": "Alpine",
+ "presB": "presence",
+ "presText": "Two nights in Lucerne and two in Interlaken bring the Alps close: a group dinner of fondue or raclette, a gondola to Grindelwald-First, and an evening sunset cruise on Lake Thun.",
+ "wideImg": [
+  "dbb53a3a5ad99fa04cf643c975ca4332",
+  "Amsterdam canal at sunset"
+ ],
+ "recapImg": "cf8f77c714bab1828cb00ff68c1f66d9",
+ "recap": [
+  "Watch our",
+  "Europe",
+  "preview"
+ ],
+ "staysLine": "Six cities · Eleven nights",
+ "highlights": [
+  "A’DAM LOOKOUT rooftop swing and Amsterdam sunset dinner cruise",
+  "First-class train from Amsterdam to Cologne",
+  "Calmont Klettersteig, Europe’s steepest vineyard climb",
+  "Segway Green Tour and group lunch in Frankfurt",
+  "Swiss fondue or raclette dinner in Lucerne",
+  "First Flyer zipline at Grindelwald-First",
+  "Lake Thun sunset dinner cruise"
+ ],
+ "expect": [
+  "Balanced",
+  "Dutch, German + Swiss German",
+  "City + alpine",
+  "Group transfers",
+  "European",
+  "Two free days"
+ ],
+ "photos": [
+  [
+   "3c08bc792d1a4e9ca9212e9f6274a72e",
+   "Swiss alpine village"
+  ],
+  [
+   "dbb53a3a5ad99fa04cf643c975ca4332",
+   "Amsterdam canal at sunset"
+  ],
+  [
+   "b1c0d2bfbda06e8176aef9133b781739",
+   "Lucerne Chapel Bridge"
+  ],
+  [
+   "40d022fd6c6c5c04575b66e0370b9f0a",
+   "Swiss lake"
+  ],
+  [
+   "cf8f77c714bab1828cb00ff68c1f66d9",
+   "Dutch windmills"
+  ],
+  [
+   "bb9139da97482d6e55a6922e980db85c",
+   "Tulips in Amsterdam"
+  ],
+  [
+   "1d3cfcf25a7efcffaf424672cf20293a",
+   "Dinner"
+  ],
+  [
+   "4eef894f43cca6ca8ca7a32a75a55dfa",
+   "A toast"
+  ]
+ ],
+ "includes": [
+  "11 nights of hotels",
+  "Group airport transfers",
+  "Private coach where listed",
+  "English-speaking assistants and guides",
+  "Amsterdam walking tour + transit pass",
+  "A’DAM LOOKOUT, Over the Edge + VR",
+  "Amsterdam sunset dinner cruise",
+  "First-class rail where listed",
+  "Kartcenter Cologne group race",
+  "Calmont Klettersteig",
+  "Frankfurt Segway Green Tour",
+  "First Flyer zipline + gondola",
+  "Lake Thun sunset cruise",
+  "11 breakfasts, 1 lunch, 4 dinners"
+ ],
+ "rooms": [
+  [
+   "Ibis Styles Amsterdam Central Station",
+   "Nights 1–2 · Amsterdam",
+   "dbb53a3a5ad99fa04cf643c975ca4332",
+   "A 3-star hotel at Martelaarsgracht 10, steps from Central Station and the canals. Or similar.",
+   [
+    "Standard Room",
+    "2 nights",
+    "Breakfast included",
+    "Central Station"
+   ]
+  ],
+  [
+   "Hotel Allegro Cologne",
+   "Nights 3–4 · Cologne",
+   "cf8f77c714bab1828cb00ff68c1f66d9",
+   "A 4-star hotel in Cologne’s old town, near the Rhine, for the go-kart race and a three-course German dinner. Or similar.",
+   [
+    "Deluxe Room",
+    "2 nights",
+    "Breakfast included",
+    "Old town"
+   ]
+  ],
+  [
+   "Moxy Frankfurt City Center",
+   "Nights 5–6 · Frankfurt",
+   "bb9139da97482d6e55a6922e980db85c",
+   "A 3-star hotel at Thurn-und-Taxis-Platz 8, your base for the Segway Green Tour. Or similar.",
+   [
+    "Standard Room",
+    "2 nights",
+    "Breakfast included",
+    "City center"
+   ]
+  ],
+  [
+   "Ibis Styles Luzern City or Grand Hotel Europe",
+   "Nights 7–8 · Lucerne",
+   "b1c0d2bfbda06e8176aef9133b781739",
+   "Two nights in Lucerne, with a full day at leisure. The final hotel is not guaranteed at this stage.",
+   [
+    "Standard Room",
+    "2 nights",
+    "Breakfast included",
+    "Lake Lucerne"
+   ]
+  ],
+  [
+   "Essential by Dorint Interlaken",
+   "Nights 9–10 · Interlaken",
+   "40d022fd6c6c5c04575b66e0370b9f0a",
+   "A 3-star hotel at Rugenparkstrasse 8/10, between the lakes, for Grindelwald-First and the Lake Thun cruise. Or similar.",
+   [
+    "Standard Room",
+    "2 nights",
+    "Breakfast included",
+    "Between two lakes"
+   ]
+  ],
+  [
+   "Crowne Plaza Zurich",
+   "Night 11 · Zurich",
+   "3c08bc792d1a4e9ca9212e9f6274a72e",
+   "A 4-star hotel at Badenerstrasse 420 for your last night before the flight home. Or similar.",
+   [
+    "Premium Room",
+    "1 night",
+    "Breakfast included",
+    "Airport transfer next day"
+   ]
+  ]
+ ],
+ "prices": [
+  [
+   "Double occupancy",
+   "$9,038",
+   "excludes international airfare"
+  ],
+  [
+   "Single occupancy",
+   "$10,827",
+   "excludes international airfare"
+  ]
+ ],
+ "deposit": [
+  "$520 deposit",
+  "(non-refundable; includes a $20 processing fee) reserves your place. Flexible payment options available."
+ ],
+ "spots": "Limited spots available!",
+ "info": [
+  [
+   "What’s not included",
+   "O",
+   [
+    "International airfare, departure taxes, fuel surcharges and seat selection",
+    "Optional Mount Pilatus toboggan ($360) and paragliding ($795)",
+    "Meals and drinks not listed",
+    "Personal expenses, tips and porterage",
+    "Passport and visa expenses",
+    "Separate transfers if you are not on the group flight"
+   ]
+  ],
+  [
+   "Health, mobility + accessibility",
+   "C",
+   [
+    "Calmont Klettersteig: about 3.5 hours, moderate, with steel cables and ladders",
+    "Go-karting needs a minimum of 6 participants",
+    "Luggage: one standard suitcase plus one soft personal item",
+    "Small wheeled cases are not allowed on the coach"
+   ]
+  ],
+  [
+   "Payments",
+   "C",
+   [
+    "$520 deposit reserves your place",
+    "Remaining trip payments are handled separately",
+    "Flexible payment options available",
+    "Final payment deadline coming soon"
+   ]
+  ],
+  [
+   "Insurance",
+   "O",
+   [
+    "Highly recommended for every traveler",
+    "Protects your investment if plans change",
+    "All payments are non-refundable, so coverage matters",
+    "Ask us which plans past travelers have used"
+   ]
+  ]
+ ],
+ "wide": [
+  [
+   "Meal plan",
+   "O",
+   [
+    "11 breakfasts",
+    "Three-course group lunch in Frankfurt (Day 6)",
+    "Amsterdam sunset dinner cruise (Day 2)",
+    "German dinner in Cologne (Day 4) and Swiss dinner in Lucerne (Day 7)",
+    "Lake Thun sunset dinner cruise (Day 10)"
+   ]
+  ],
+  [
+   "Travel notes · day by day",
+   "C",
+   [
+    "Day 1: Arrive Amsterdam, private coach, A’DAM LOOKOUT swing and VR",
+    "Day 2: Guided walking tour, sunset dinner cruise",
+    "Day 3: First-class train to Cologne, group go-kart race",
+    "Day 4: Cologne at leisure, three-course German dinner",
+    "Day 5: Calmont Klettersteig, coach to Frankfurt",
+    "Day 6: Segway Green Tour, group lunch",
+    "Day 7: First-class train to Lucerne, fondue or raclette dinner",
+    "Day 8: Lucerne at leisure",
+    "Day 9: Train to Interlaken, Grindelwald-First gondola, First Flyer zipline",
+    "Day 10: Interlaken at leisure, Lake Thun sunset cruise",
+    "Day 11: First-class train to Zurich",
+    "Day 12: Group transfer to Zurich Airport"
+   ]
+  ],
+  [
+   "Terms + policies",
+   "C",
+   [
+    "All sales are final; payments are non-refundable and non-transferable",
+    "Registering holds your spot for 24 hours",
+    "Your spot is confirmed once payment is received",
+    "Hotels are listed or similar; the Lucerne hotel is not yet guaranteed",
+    "Some attractions have limited capacity or weather restrictions"
+   ]
+  ]
+ ]
+}
